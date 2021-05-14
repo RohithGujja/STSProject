@@ -11,7 +11,7 @@ public class CustomMergeSort {
 		System.out.println(Arrays.toString(array));
 	}
 	
-	// Time complexity : O(nlogn) both worst and best
+	// Time complexity : O(n log n) both worst and best
 	public static void MergeSort(Integer[] arr, int lb, int ub) {
 		if(lb<ub) {
 			int mid = (lb + ub)/2;
