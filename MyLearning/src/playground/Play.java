@@ -1,7 +1,7 @@
 package playground;
 
 
-public class play2 {
+public class Play {
 	public static void main(String[] args) {
 		String S = "aaaa";
 		int[] a = new int[] {3,4,5,6};
